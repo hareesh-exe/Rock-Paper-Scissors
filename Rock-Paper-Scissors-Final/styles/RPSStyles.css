@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: rgb(25,25,25);
+    color: white;
+}
+.title {
+    font-size: 35px;
+    font-weight: bold;
+}
+.play-icons {
+    height: 50px;
+}
+.play-buttons {
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    border: 3px solid white;
+    background-color: transparent;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.moves {
+    height: 50px;
+}
+.reset-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(192, 192, 42);
+    color: black;
+    font-weight: bold;
+}
